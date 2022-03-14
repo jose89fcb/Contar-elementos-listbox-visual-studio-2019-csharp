@@ -1,1 +1,3 @@
-# Contar-elementos-listbox-visual-studio-2019-csharp
+<img src="https://i.imgur.com/gd9E70o.png">
+<br>
+<img src="https://i.imgur.com/boGi6Kj.png">
